@@ -1,2 +1,2 @@
 # PewPewGame
-A 3D Shooter Game made with Unity Game Engine.
+PewPewGame is a 3D Shooter Game that I'm Making using Unity Game Engine.
