@@ -1,5 +1,5 @@
 # Furious City
-Furious City is a 3D Shooter Game that I'm making.
+Furious City is a 3D Racing Game that I'm making.
 
 # Stuff Used:
 Engine: Unreal Engine (with Nanite & Skeletal Mesh Animation System)
